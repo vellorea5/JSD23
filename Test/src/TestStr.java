@@ -6,6 +6,7 @@ public class TestStr {
 		count=0;
 	}
 	
+	// main method for this class
 	public static void main(String[] args) {
 		String s = "hello";
 		String t = s.concat("world");
